@@ -1,6 +1,6 @@
 # Open-Exoterminal
 This is the official repository for the open-source portion of the game Exoterminal made by [Likia](https://github.com/LikiaBili) / LikiaStudios
-All files in the master branch is under MIT License, can be overridden by any other licenses in the same folder.
+All files are under MIT License, can be overridden by any other licenses in the same folder.
 
 ## ExoHollow
 ExoHollow is a font made originally by [Likia](https://github.com/LikiaBili) using [Aseprite](https://www.aseprite.org) and [Pixel Font Converter](https://yal.cc/r/20/pixelfont/)
